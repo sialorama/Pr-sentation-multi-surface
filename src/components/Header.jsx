@@ -9,7 +9,7 @@ export const Header = () => {
             src="./src/assets/avatar.svg"
             sx={{ width: 100, height: 100 }}
             />
-            <h2 spacing={0} padding={0} style={{ marginTop: 0 }} position="static">TP2 Application de Présentation multi-surface en React</h2>
+            <h2 spacing={0} padding={0} style={{ marginTop: 0 }} position="static">Application de Présentation multi-surface</h2>
         
         </>
     )
