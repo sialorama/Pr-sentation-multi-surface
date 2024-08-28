@@ -1,6 +1,7 @@
 # Application de Présentation multi-surface en React et Vite  
 ## Requirements:  
-``` $ npm install routes axios ```  
+``` $ npm install routes axios ``` 
+``` npm install @reduxjs/toolkit ```
 ``` $ npm install @mui/material @emotion/react @emotion/styled ```  
 
 ## Preview:  
