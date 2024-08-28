@@ -2,7 +2,7 @@
 ## Requirements:  
 ``` $ npm install routes ```  
 ``` $ npm install axios ```  
-``` npm install @reduxjs/toolkit ```  
+``` $ npm install @reduxjs/toolkit ```  
 ``` $ npm install @mui/material @emotion/react @emotion/styled ```  
 
 ## Preview:  
